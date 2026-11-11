@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://abigail-newton.com/",
     title: "Abby Newton",
-    description: "Abby Newton Blog.",
+    description: "Abigail Newton is a space instrumentation engineer building sensors for Mars and the Moon. Projects, research notes, and resume.",
     author: "Abigail Newton",
     profile: "https://www.linkedin.com/in/abigail-newton",
     ogImage: "default-og.jpg",
