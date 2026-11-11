@@ -1,37 +1,23 @@
 ---
-title: "About"
+title: "About Me"
 description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Thanks for visiting my blog! I'm a chemical engineer and space scientist who loves everything to do with instrumentation design and build. For some reason, I got completely obsessed with spectroscopy for space in my first year of undergrad. Everyone in the Queen's engineering program does a semester long group project in first years for a wide variety of clients - my groups client was the Queen's Space Engineering Team, and we were to design a microreactor to test soil for signs of life. I had a group of wonderful, driven people and we came up with a graduate level solution that included Raman and CD spectroscopy. We won the Mason cup award for the best project in the class (roughly 800 people, still my favourite achievement) and I have been completely obsessed ever since. I worked on an OA-ICOS spectrometer in grad school that is designed to test for Martian methane (managed to fix it, another thing I am very proud of) and built a prototype cloud sensor that could turn a camera on when Martian clouds were above. I also got the opportunity to go to NASA JPL and work on modelling the atmosphere of ancient Mars using MarsWRF. Since grad school, I have worked on the science behind a multispectral imager designed for lunar mineral and volatiles identification. 
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Genuinely, I've loved every second and would love to continue in the space industry. 
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## My Background
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Born in Ridgewood, New Jersey, but moved to Toronto when I was 1.5 (picture of baby abby). 
+B.ASc from Queen's Engineering, Engineering Chemistry (photo of me next to tank or something here)
+M.Sc from York University, Earth and Space Science (photo of me in Death Valley)
 
-## Features
+The best parts of my day are working with people and getting my hands dirty.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Outside of Work
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+I love line dancing, reading, scuba diving, and a good hike. I have been told my greatest quality is my enthusiasm - I LOVE space and want to make everyone else love space too.
 
-and so much more.
+(picture of me line dancing)
 
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
