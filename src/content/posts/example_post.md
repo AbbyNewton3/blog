@@ -12,7 +12,7 @@ ogImage: ../../assets/images/IMG_1198.jpg
 description: This is the example description of the example post.
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
-
+![Me at a conference](../../assets/images/IMG_1198.jpg)
 > [!NOTE]
 > This is a test post.
 
