@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://abigail-newton.com/",
     title: "Abby Newton Blog",
     description: "Abby Newton Blog.",
     author: "Abigail Newton",
-    profile: "https://satna.ing",
+    profile: "https://www.linkedin.com/in/abigail-newton",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Canada/Toronto",
@@ -23,7 +23,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/abbynewton3/blog",
     },
     search: "pagefind",
     toc: true,
