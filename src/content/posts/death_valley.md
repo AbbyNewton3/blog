@@ -1,7 +1,7 @@
 ---
 title: Salt can be sharp! Lessons from fieldwork.
 author: Abigail Newton
-pubDatetime: 2022-09-21T05:17:19Z
+pubDatetime: 2026-08-04T16:00:00-04:00
 featured: true
 draft: false
 tags:
