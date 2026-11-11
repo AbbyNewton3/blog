@@ -22,3 +22,10 @@ I ran up and down the salt flats a number of times, tried unsuccessfully to do a
 The tip I have for other people doing field work is the same advice as the government has for gamblers: know your limit, play within it. If you can feel salt crunching under your feet but it doesn’t hurt much, and everyone else is limping, that might not be proof you’re tough. Get back to dry land and check that you haven’t hurt yourself. Keep in mind your personal limitations as much as possible and don’t hurt yourself unintentionally.
 
 I did get my sunset measurements, and a really beautiful video to go along with it. The next day I left the radiometer out for 6 hours while we went on a hike (My feet held up!), and came back to more excellent footage. Death Valley treated me well. 
+<video controls playsinline preload="metadata" width="100%">
+  <source src="/5_Death_Valley.mp4" type="video/mp4" />
+</video>
+
+<video controls playsinline preload="metadata" width="100%">
+  <source src="/3_lone_pine.mp4" type="video/mp4" />
+</video>
