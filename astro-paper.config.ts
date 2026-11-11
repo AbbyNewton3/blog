@@ -29,9 +29,9 @@ export default defineAstroPaperConfig({
     toc: true,
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "linkedin", url: "www.linkedin.com/in/abigail-newton" },
-    { name: "mail",     url: "anewt@rogers.com" },
+    { name: "github",   url: "https://github.com/abbynewton3/blog" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/abigail-newton" },
+    { name: "mail",     url: "mailto:anewt@rogers.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
