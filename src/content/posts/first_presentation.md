@@ -9,7 +9,7 @@ tags:
   - clouds
   - instrumentation
 ogImage: ../../assets/images/IPM.jpg
-description: This is the example description of the example post.
+description: Conference talks are fun!
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
 
