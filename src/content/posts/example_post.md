@@ -8,7 +8,7 @@ tags:
   - first
   - test
   - tags
-ogImage: src/assets/images/IMG_1198.jpg
+ogImage: ../../assets/images/IMG_1198.jpg
 description: This is the example description of the example post.
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
