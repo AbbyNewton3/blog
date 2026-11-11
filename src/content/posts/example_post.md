@@ -8,8 +8,7 @@ tags:
   - first
   - test
   - tags
-ogImage: ../../assets/images/example.png # src/assets/images/example.png
-# ogImage: "https://example.org/remote-image.png" # remote URL
+ogImage: src/assets/images/IMG_1953.heic
 description: This is the example description of the example post.
 canonicalURL: https://example.org/my-article-was-already-posted-here
 ---
